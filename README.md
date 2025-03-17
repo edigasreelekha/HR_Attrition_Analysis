@@ -1,5 +1,10 @@
 # HR_Attrition_Analysis
 
+
+## HR_Attrition_Dashboard
+
+![Dashboard](https://github.com/edigasreelekha/HR_Attrition_Analysis/blob/main/Dashboard%20pic.png)
+
 This repository contains an HR Analytics Dashboard designed to provide insights into employee attrition and other key HR metrics.
 
 ## Overview
